@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650657842522",
+    "firebase_url": "https://online-attendance-002-default-rtdb.firebaseio.com",
+    "project_id": "online-attendance-002",
+    "storage_bucket": "online-attendance-002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650657842522:android:c82aa08d4840f2a0ebdf63",
+        "android_client_info": {
+          "package_name": "com.mukesh.ip40"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650657842522-5f2g5aug749foqo9j8i15lel9oleukce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsKm4mzrqqtT2IGykMDJRO7LVUzItZ3g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650657842522-5f2g5aug749foqo9j8i15lel9oleukce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
